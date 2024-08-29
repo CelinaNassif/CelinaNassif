@@ -6,6 +6,9 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 * 🌍  I'm based in Jerusalem District, Israel
 * * ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
 
+<p align="left">
+  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" style="float: right; margin-left: 20px; margin-top: 20px;" />
+</p>
 ### Skills
 
 #### Programming Languages
@@ -50,9 +53,7 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 </p>
 
 
-<p align="right">
- <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" style="float: right; margin-left: 20px;" />
-</p>
+
 
 ### Socials
 
