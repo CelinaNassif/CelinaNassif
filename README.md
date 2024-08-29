@@ -6,52 +6,42 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 * 🌍  I'm based in Jerusalem District, Israel
 * * ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
 
-<p align="right">
-  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" style="float: right; margin-left: 20px; margin-top: 20px;" />
-</p>
+<div>
+  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="300" align="right" alt="Skills Image" />
+  
+  ### Skills
 
-### Skills
+  #### Programming Languages
+  ![C#](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg) 
+  ![Dart](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg) 
+  ![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg) 
+  ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) 
+  ![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg) 
+  ![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg) 
+  ![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg) 
 
-#### Programming Languages
-<p>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-</p>
+  #### Frameworks & Libraries
+  ![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg) 
+  ![JQuery](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg) 
+  ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) 
+  ![.NET](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg) 
+  ![Flutter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg) 
 
-#### Frameworks & Libraries
-<p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+  #### Tools & Platforms
+  ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) 
+  ![VS Code](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg) 
+  ![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg) 
+  ![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg) 
+  ![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg) 
+  ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg) 
 
-#### Tools & Platforms
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+  #### Databases
+  ![Oracle](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg) 
+  ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg) 
 
-#### Databases
-<p>
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-#### Design & Prototyping
-<p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+  #### Design & Prototyping
+  ![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg) 
+</div>
 
 
 
