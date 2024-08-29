@@ -7,7 +7,7 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 * * ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
 
 <div>
-  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="300" align="right" alt="Skills Image" />
+  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" align="right" alt="Skills Image" />
   
   ### Skills
 
