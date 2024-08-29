@@ -50,9 +50,9 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 </p>
 
 
-
+<p align="left">
  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" style="float: right; margin-left: 20px;" />
-
+</p>
 
 ### Socials
 
