@@ -2,7 +2,7 @@
 
 I'm Celina, a dedicated software engineering student with a passion for crafting innovative solutions through code. My journey in software engineering is driven by a love for problem-solving, building impactful software, and continuously exploring the latest technologies. Currently, I’m working toward my degree in Software Engineering, where I focus on writing clean, maintainable code, designing robust architectures, and embracing the principles of continuous improvement. Let’s create something extraordinary with code!
 
-* 🧠  I'm currently pursuing a B.Sc. in Software Engineering.
+* 🧠  I'm currently pursuing a B.Sc.in Software Engineering.
 * 🌍  I'm based in Jerusalem District, Israel
 * * ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
 
@@ -50,9 +50,9 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" />
-</p>
+
+ <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" alt="Skills Image" style="float: right; margin-left: 20px;" />
+
 
 ### Socials
 
