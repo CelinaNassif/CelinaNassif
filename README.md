@@ -4,7 +4,7 @@ I'm Celina, a dedicated software engineering student with a passion for crafting
 
 * 🧠  I'm currently pursuing a B.Sc.in Software Engineering.
 * 🌍  I'm based in Jerusalem District, Israel
-* * ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
+* ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
 
 <div>
   <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" align="right" alt="Skills Image" />
