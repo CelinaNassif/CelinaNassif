@@ -1,10 +1,10 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Celina Nassif
 
-I'm Celina, a dedicated software engineering student with a passion for crafting innovative solutions through code. My journey in software engineering is driven by a love for problem-solving, building impactful software, and continuously exploring the latest technologies. Currently, I’m working toward my degree in Software Engineering, where I focus on writing clean, maintainable code, designing robust architectures, and embracing the principles of continuous improvement. Let’s create something extraordinary with code!
+I'm Celina, a recent Software Engineering graduate with a strong passion for crafting innovative solutions through code. My journey in tech has been shaped by a love for problem-solving, building impactful applications, and staying up-to-date with emerging technologies. Throughout my academic and practical experiences, I’ve focused on writing clean, maintainable code, designing scalable system architectures, and embracing continuous learning. I'm now excited to apply my knowledge in real-world projects and contribute to meaningful software development teams.
 
-* 🧠  I'm currently pursuing a B.Sc.in Software Engineering.
-* 🌍  I'm based in Jerusalem District, Israel
-* ✉️  You can contact me at [celinanassif0@gmail.com](mailto:celinanassif0@gmail.com)
+🎓 I hold a B.Sc. in Software Engineering
+🌍 Based in the Jerusalem District, Israel
+✉️ Reach me at celinanassif0@gmail.com
 
 <div>
   <img src="https://github.com/CelinaNassif/CelinaNassif/raw/main/1.jpg" width="400" align="right" alt="Skills Image" />
