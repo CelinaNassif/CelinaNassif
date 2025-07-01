@@ -3,7 +3,9 @@
 I'm Celina, a recent Software Engineering graduate with a strong passion for crafting innovative solutions through code. My journey in tech has been shaped by a love for problem-solving, building impactful applications, and staying up-to-date with emerging technologies. Throughout my academic and practical experiences, I’ve focused on writing clean, maintainable code, designing scalable system architectures, and embracing continuous learning. I'm now excited to apply my knowledge in real-world projects and contribute to meaningful software development teams.
 
 🎓 I hold a B.Sc. in Software Engineering
+
 🌍 Based in the Jerusalem District, Israel
+
 ✉️ Reach me at celinanassif0@gmail.com
 
 <div>
