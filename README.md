@@ -13,9 +13,6 @@ I'm Celina , a Software Engineer and Full-Stack Developer passionate about build
   
   ### Skills
 
-  
-<h2>💻 Tech Stack</h2>
-
 <h3>👩‍💻 Programming Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=php,dart,js,ts,python,java,cs" />
