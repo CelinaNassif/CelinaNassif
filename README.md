@@ -45,8 +45,6 @@ I'm Celina , a Software Engineer and Full-Stack Developer passionate about build
   <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
 </p>
 
----
-
 <h2>🌐 Connect With Me</h2>
 
 <p align="left">
