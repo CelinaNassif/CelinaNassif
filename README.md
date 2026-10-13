@@ -13,64 +13,61 @@ I'm Celina , a Software Engineer and Full-Stack Developer passionate about build
   
   ### Skills
 
-  #### Programming Languages
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  
+<h2>💻 Tech Stack</h2>
 
-  #### Frameworks & Libraries
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-
-  #### Tools & Platforms
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-
-  #### Databases
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-
-  #### Design & Prototyping
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-</div>
-
-
-
-
-### Socials
-
-<p align="left"> 
-
-<a href="http://www.instagram.com/celina_nassif9" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.linkedin.com/in/CelinaNassif" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.x.com/CelinaNassif" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
-</picture> 
-</a>
+<h3>👩‍💻 Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,dart,js,ts,python,java,cs" />
 </p>
+
+<h3>🚀 Frameworks & Libraries</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,dotnet,jquery" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" height="48" alt="CodeIgniter" />
+</p>
+
+<h3>🎨 Frontend Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" />
+</p>
+
+<h3>🛠️ Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,docker,aws,linux" />
+</p>
+
+<h3>✨ Design & Prototyping</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
+</p>
+
+---
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/CelinaNassif">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/celina_nassif9">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/CelinaNassif">
+    <img src="https://cdn.simpleicons.org/x/888888" height="42" alt="X" />
+  </a>
+  &nbsp;
+  <a href="mailto:celinanassif0@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>
+</p>
+
+
