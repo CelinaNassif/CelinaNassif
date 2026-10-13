@@ -15,53 +15,53 @@ I'm Celina , a Software Engineer and Full-Stack Developer passionate about build
 
 <h3>👩‍💻 Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,dart,js,ts,python,java,cs" />
+  <img src="https://skillicons.dev/icons?i=php,dart,js,ts,python,java,cs&perline=7" alt="Programming Languages" />
 </p>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,dotnet,jquery" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="48" height="48" alt="CodeIgniter" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,react,nodejs,dotnet,jquery&perline=6" alt="Frameworks" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 </p>
 
 <h3>🎨 Frontend Development</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=4" alt="Frontend" />
 </p>
 
 <h3>🗄️ Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48" height="48" alt="Oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite&perline=4" alt="Databases" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 <h3>🛠️ Tools & Platforms</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,docker,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,postman,docker,aws,linux&perline=7" alt="Tools" />
 </p>
 
 <h3>✨ Design & Prototyping</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps&perline=3" alt="Design Tools" />
 </p>
 
 <h2>🌐 Connect With Me</h2>
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/CelinaNassif">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/celina_nassif9">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://x.com/CelinaNassif">
-    <img src="https://cdn.simpleicons.org/x/888888" height="42" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:celinanassif0@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
