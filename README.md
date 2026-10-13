@@ -49,19 +49,28 @@ I'm Celina , a Software Engineer and Full-Stack Developer passionate about build
   <img src="https://skillicons.dev/icons?i=figma,xd,ps&perline=3" alt="Design Tools" />
 </p>
 
+
 <h2>🌐 Connect With Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/CelinaNassif">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/CelinaNassif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         width="42" height="42" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/celina_nassif9">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;
+  <a href="https://www.instagram.com/celina_nassif9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"
+         width="42" height="42" alt="Instagram" />
   </a>
-  <a href="https://x.com/CelinaNassif">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  &nbsp;
+  <a href="https://x.com/CelinaNassif" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF"
+         width="42" height="42" alt="X" />
   </a>
+  &nbsp;
   <a href="mailto:celinanassif0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail"
+         width="42" height="42" alt="Email" />
   </a>
 </p>
 
